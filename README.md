@@ -1,5 +1,5 @@
 # ELVIS BEECHING
-Cybersecurity & Network Security Professional  
+# Cybersecurity & Network Security Professional  
 M.S. in Cybersecurity with hands-on experience in security operations, network engineering, threat detection, incident response, vulnerability management, and network security. Building practical cybersecurity and networking projects to demonstrate real-world technical capabilities.
 Core Skills: SIEM • Splunk • Wireshark • Microsoft Sentinel • Linux • Python • Cisco IOS • VLANs • OSPF • ACLs • NAT • Incident Response • Vulnerability Assessment
 ## 🏆 Certifications
