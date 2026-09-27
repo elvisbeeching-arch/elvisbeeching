@@ -5,19 +5,15 @@ Core Skills: SIEM • Splunk • Wireshark • Microsoft Sentinel • Linux • 
 
 ## 🏆 Certifications
 
-[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white)](SECURITY_PLUS_URL)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white)
+![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white)
+![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white)
 
-[![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white)](CYSA_URL)
+![EC-Council CEH](https://img.shields.io/badge/EC--Council-CEH-red?style=for-the-badge)
+![EC-Council CHFI](https://img.shields.io/badge/EC--Council-CHFI-red?style=for-the-badge)
+![EC-Council CSA](https://img.shields.io/badge/EC--Council-CSA-red?style=for-the-badge)
+![EC-Council CND](https://img.shields.io/badge/EC--Council-CND-red?style=for-the-badge)
 
-[![Network+](https://img.shields.io/badge/CompTIA-Network%2B-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white)](NETWORK_PLUS_URL)
-
-[![CEH](https://img.shields.io/badge/EC--Council-CEH-red?style=for-the-badge)](CEH_URL)
-
-[![CHFI](https://img.shields.io/badge/EC--Council-CHFI-red?style=for-the-badge)](CHFI_URL)
-
-[![CSA](https://img.shields.io/badge/EC--Council-CSA-red?style=for-the-badge)](CSA_URL)
-
-[![CND](https://img.shields.io/badge/EC--Council-CND-red?style=for-the-badge)](CND_URL)
 # Technologies & Tools
 
 ### 🔐 Cybersecurity
