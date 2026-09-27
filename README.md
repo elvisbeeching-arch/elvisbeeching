@@ -4,7 +4,7 @@ M.S. in Cybersecurity with hands-on experience in security operations, network e
 Core Skills: SIEM • Splunk • Wireshark • Microsoft Sentinel • Linux • Python • Cisco IOS • VLANs • OSPF • ACLs • NAT • Incident Response • Vulnerability Assessment
 ## 🏆 Certifications
 
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white)
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white)
 ![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white)
 ![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white)
 
